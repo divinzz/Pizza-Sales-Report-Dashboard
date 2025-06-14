@@ -84,4 +84,5 @@ Tools & Skills
 Power BI, Data Analysis, Dashboard Design, Business Intelligence, Sales Analytics, Data Visualization.
 
 ![Image](https://github.com/user-attachments/assets/7d4c2311-429a-431a-b456-4aa8c66cd017)
+
 ![Image](https://github.com/user-attachments/assets/475376aa-48a9-4724-8b06-bc6dfc0380fb)
